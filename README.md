@@ -51,6 +51,8 @@ rm -r ~/openairinterface5g-develop-doc-tutorial_resources-oai-cn5g ~/oai-cn5g.zi
 
 #### Changes to `config.yaml` File
 
+[modified config.yaml](./oai-cn5g-config/modified_config.yaml)
+
 ```patch
 @@ -116,6 +116,10 @@
  snssais:
@@ -169,6 +171,8 @@ rm -r ~/openairinterface5g-develop-doc-tutorial_resources-oai-cn5g ~/oai-cn5g.zi
 ```
 
 #### Changes to `oai_db.sql` File
+
+[modified oai_db.sql](./oai-cn5g-config/modified_oai_db.sql)
 
 ```patch
 @@ -213,11 +213,11 @@
