@@ -237,7 +237,7 @@ Add these config files at `~/UERANSIM/config/`
 - [gNB Configuration Files](./gnb-config/)
 - [UE Configuration Files](./ue-config/)
 
-## Deployment
+## Terminals
 
 ### Terminal 1: Watch AMF Logs
 
