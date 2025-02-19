@@ -2,6 +2,8 @@
 
 This repository provides deployment guides and configuration files for setting up OAI CN5G and UERANSIM for RAN slicing.
 
+![image](https://github.com/user-attachments/assets/bccdc8b6-a722-49c4-8059-1e52e480f739)
+
 ## Deployment Guides
 
 Follow these links for detailed deployment steps:
