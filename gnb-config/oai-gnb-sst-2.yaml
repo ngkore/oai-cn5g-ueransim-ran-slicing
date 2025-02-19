@@ -16,7 +16,9 @@ amfConfigs:
 
 # List of supported S-NSSAIs by this gNB
 slices:
+  - sst: 0x1
   - sst: 0x2
+  - sst: 0x3
     # sd: 0xffffff
 
 # Indicates whether or not SCTP stream number errors should be ignored.
